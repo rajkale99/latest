@@ -2,8 +2,8 @@ title: LegionOS Blog
 author: 
 subtitle: The life of a frustrated engineer
 
-url: "https://harshv23.cf"
-baseurl: "/legionos-blog"
+url: "https://blog.legionos.org"
+baseurl: ""
 
 footer_only_homepage: true
 footer_url: "#"
@@ -12,6 +12,30 @@ footer_text: "Copyright 2021 LegionOS"
 profile-picture: assets/profile.png
 favicon_location: assets/nav-logo.svg
 
-permalink: /:year-:month-:day-:title/
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
 
-navbar:
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Excludes
+exclude: [ Gemfile ]
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
