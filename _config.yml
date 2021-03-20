@@ -15,6 +15,3 @@ favicon_location: assets/nav-logo.svg
 permalink: /:year-:month-:day-:title/
 
 navbar:
-
-
-theme: jekyll-theme-cayman
