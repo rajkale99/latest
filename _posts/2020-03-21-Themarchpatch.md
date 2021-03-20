@@ -7,26 +7,49 @@ tags: [March Patch]
 
 <img  src="https://i.imgur.com/6qCMrc2.png">
 
-# 13-2-2021
+Hello Brothers,
 
-1)  Updated New wallpapers in the Lpapers app
-2)  Update to march security patch
-3)  New updater app UI
-4)  Imply force redfin(Pixel 5) fingerprint
-5)  Add qs tile styles customization
-6)  Add qs header customization
-7)  Introduce Extreme battery saver
-8)  Enable IORap by default
-9)  Downscale high-res-tasks
-10) Update prebuilt apks
-11) Updated gapps to Latest March
-12) Fixed a case where bubble chats were crashing
-13) Fixed a case where Data usage wasnt visible
-14) Moved Data usage to qs
-15) Add proximity check on wake
-16) Enable some lock screen shortcuts by default
-17) Some Dependency updates
-18) Minor fixes and updates
+Hope everyone is enjoying their weekend. 
+
+Here we are coming back again to bother you with a new release of **MSM Xtended XQ v2.5**
+
+So, let’s see what all we got fixed & What’s new -:
+
+{% highlight markdown %}
+*  Updated New wallpapers in the Lpapers app
+*  Update to march security patch
+*  New updater app UI
+*  Imply force redfin(Pixel 5) fingerprint
+*  Add qs tile styles customization
+*  Add qs header customization
+*  Introduce Extreme battery saver
+*  Enable IORap by default
+*  Downscale high-res-tasks
+* Update prebuilt apks
+* Updated gapps to Latest March
+* Fixed a case where bubble chats were crashing
+* Fixed a case where Data usage wasnt visible
+* Moved Data usage to qs
+* Add proximity check on wake
+* Enable some lock screen shortcuts by default
+* Some Dependency updates
+* Minor fixes and updates
+{% endhighlight %}
+
+**Many Other Device Side Changes. Kindly Check About Phone changelog sections for more details.**
+
+
+Please do share your reviews and feedback [HERE](https://sourceforge.net/projects/legionrom/reviews). We love the feedback and response we have been getting since the start of this project. Hope to see the same in coming future.
+
+Hope You All Enjoy the Legion Release v3.7.
+
+Download ROM :- [Release v3.7](https://sourceforge.net/projects/legionrom/files) 
+
+Did you like the project? Show your support by donating through [Paypal](https://paypal.me/rajkale99) and  through UPI (for India Only):- kaleraj.rk@okicici
+
+Regards
+Team-Legion
+
 
 ### Thanks for suppport ....keep supporting.....have a great day....kthxbye
 
