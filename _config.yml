@@ -16,3 +16,5 @@ permalink: /:year-:month-:day-:title/
 
 navbar:
 
+
+theme: jekyll-theme-cayman
