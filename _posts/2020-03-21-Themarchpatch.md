@@ -5,13 +5,15 @@ subtitle: Marvelous march.
 tags: [March Patch]
 ---
 
+<p align="center">
 <img  src="https://i.imgur.com/6qCMrc2.png">
+</p>
 
 Hello Brothers,
 
 Hope everyone is enjoying their weekend. 
 
-Here we are coming back again to bother you with a new release of **MSM Xtended XQ v2.5**
+Here we are coming back again to bother you with a new release of **Legion v3.7**
 
 So, let’s see what all we got fixed & What’s new -:
 
