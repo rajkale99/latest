@@ -1,0 +1,18 @@
+title: LegionOS Blog
+author: 
+subtitle: The life of a frustrated engineer
+
+url: "https://harshv23.cf"
+baseurl: "/legionos-blog"
+
+footer_only_homepage: true
+footer_url: "#"
+footer_text: "Copyright 2021 LegionOS"
+
+profile-picture: assets/profile.png
+favicon_location: assets/nav-logo.svg
+
+permalink: /:year-:month-:day-:title/
+
+navbar:
+
