@@ -1,8 +1,8 @@
 ---
 layout: post
 title: To become a maintainer of LegionOS
-subtitle: Marvelous march.
-tags: [Maintaining device OFFICIALLY]
+subtitle: BUILD OFFICIAL
+tags: [Maintaining OFFICIALLY]
 ---
 
 <p align="center">
