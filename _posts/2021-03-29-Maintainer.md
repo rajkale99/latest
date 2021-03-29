@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To become a maintainer of LegionOS
+title: Maintaining of LegionOS
 subtitle: BUILD OFFICIAL
 tags: [Maintaining OFFICIALLY]
 ---
