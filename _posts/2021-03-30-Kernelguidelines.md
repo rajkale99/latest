@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Code Of Conduct
+title: Kernel Guidelines
 subtitle: Important rules
 tags: [Maintaining OFFICIALLY]
 ---
