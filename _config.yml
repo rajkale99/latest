@@ -39,3 +39,9 @@ exclude: [ Gemfile ]
 plugins:
   - jekyll-paginate
   - jekyll-remote-theme
+
+navbar:
+ - name: "features"
+   link: "features"
+ - name: "Main"
+   absolute-link: "https://legionos.org"
