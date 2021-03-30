@@ -17,24 +17,24 @@ Here we are coming back again to bother you with a new release of **Legion v3.7*
 
 So, let’s see what all we got fixed & What’s new -:
 
-* <span class="highlight-red"> Updated New wallpapers in the Lpapers app </span>
-* <span class="highlight-red"> Update to march security patch </span>
-* <span class="highlight-red"> New updater app UI </span>
-* <span class="highlight-red"> Imply force redfin(Pixel 5) fingerprint </span>
-* <span class="highlight-red"> Add qs tile styles customization </span>
-* <span class="highlight-red"> Add qs header customization </span>
-* <span class="highlight-red"> Introduce Extreme battery saver </span>
-* <span class="highlight-red"> Enable IORap by default </span>
-* <span class="highlight-red"> Downscale high-res-tasks </span>
-* <span class="highlight-red"> Update prebuilt apks </span>
-* <span class="highlight-red"> Updated gapps to Latest March </span>
-* <span class="highlight-red"> Fixed a case where bubble chats were crashing </span>
-* <span class="highlight-red"> Fixed a case where Data usage wasnt visible </span>
-* <span class="highlight-red"> Moved Data usage to qs </span>
-* <span class="highlight-red"> Add proximity check on wake </span>
-* <span class="highlight-red"> Enable some lock screen shortcuts by default </span>
-* <span class="highlight-red"> Some Dependency updates </span>
-* <span class="highlight-red"> Minor fixes and updates </span>
+* <span class="highlight-blue"> Updated New wallpapers in the Lpapers app </span>
+* <span class="highlight-blue"> Update to march security patch </span>
+* <span class="highlight-blue"> New updater app UI </span>
+* <span class="highlight-blue"> Imply force redfin(Pixel 5) fingerprint </span>
+* <span class="highlight-blue"> Add qs tile styles customization </span>
+* <span class="highlight-blue"> Add qs header customization </span>
+* <span class="highlight-blue"> Introduce Extreme battery saver </span>
+* <span class="highlight-blue"> Enable IORap by default </span>
+* <span class="highlight-blue"> Downscale high-res-tasks </span>
+* <span class="highlight-blue"> Update prebuilt apks </span>
+* <span class="highlight-blue"> Updated gapps to Latest March </span>
+* <span class="highlight-blue"> Fixed a case where bubble chats were crashing </span>
+* <span class="highlight-blue"> Fixed a case where Data usage wasnt visible </span>
+* <span class="highlight-blue"> Moved Data usage to qs </span>
+* <span class="highlight-blue"> Add proximity check on wake </span>
+* <span class="highlight-blue"> Enable some lock screen shortcuts by default </span>
+* <span class="highlight-blue"> Some Dependency updates </span>
+* <span class="highlight-blue"> Minor fixes and updates </span>
 
 **Many Other Device Side Changes. Kindly Check About Phone changelog sections for more details.**
 
