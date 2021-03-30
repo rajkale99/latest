@@ -36,7 +36,7 @@ So, let’s see what all we got fixed & What’s new -:
 * Enable some lock screen shortcuts by default
 * Some Dependency updates
 * Minor fixes and updates
-</spam>
+</span>
 
 **Many Other Device Side Changes. Kindly Check About Phone changelog sections for more details.**
 
