@@ -259,15 +259,27 @@ p .content .profile-picture {
 }
 
 .content .highlight-orange {
-    background-color: #ffd486
+    background-color: #3d3c3d;
+    border-radius: 3px;
+    line-height: 1.4;
+    margin: 0 0 1rem;
+    padding: 1rem;
 }
 
 .content .highlight-green {
-    background-color: #aaffad
+    background-color: #3d3c3d;
+    border-radius: 3px;
+    line-height: 1.4;
+    margin: 0 0 1rem;
+    padding: 1rem;
 }
 
 .content .highlight-blue {
-    background-color: #d8e7ff
+    background-color: #3d3c3d;
+    border-radius: 3px;
+    line-height: 1.4;
+    margin: 0 0 1rem;
+    padding: 1rem;
 }
 
 table {
