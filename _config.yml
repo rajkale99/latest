@@ -45,3 +45,6 @@ navbar:
    link: "features"
  - name: "Main"
    absolute-link: "https://legionos.org"
+   
+  # Disqus (Set to your disqus id)
+disqus: legionos
