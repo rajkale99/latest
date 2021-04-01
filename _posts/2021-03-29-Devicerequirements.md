@@ -2,6 +2,7 @@
 layout: post
 title: Device Requirements
 subtitle: Device side requirements for OFFICIAL
+comments: true
 tags: [Maintaining OFFICIALLY]
 ---
 
