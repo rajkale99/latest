@@ -17,12 +17,13 @@ Hope everyone is enjoying their weekend.
 Here we are coming back again to bother you with a new release of **Legion v3.7**
 
 So, let’s see what all we got fixed & What’s new -:
-``
+
+~ ~ ~
 * Updated New wallpapers in the Lpapers app
 * Update to march security patch
 * New updater app UI 
 * Imply force redfin(Pixel 5) fingerprint
-* <span class="color-red"> Add qs tile styles customization
+* Add qs tile styles customization
 * Add qs header customization
 * Introduce Extreme battery saver
 * Enable IORap by default
@@ -36,7 +37,7 @@ So, let’s see what all we got fixed & What’s new -:
 * Enable some lock screen shortcuts by default
 * Some Dependency updates
 * Minor fixes and updates
-``
+~ ~ ~
 **Many Other Device Side Changes. Kindly Check About Phone changelog sections for more details.**
 
 
