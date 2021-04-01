@@ -22,10 +22,32 @@ hr {
 }
 
 code {
-    background-color: #d8e7ff;
-    color: #002b72
+  background-color: fff
+  border-radius: 3px;
+  color: #bf616a;
+  font-size: 85%;
+  padding: .25em .5em;
 }
 
+pre {
+  margin: 0 0 1rem;
+}
+
+pre code {
+  background-color: transparent;
+  color: inherit;
+  font-size: 100%;
+  padding: 0;
+}
+        
+  .highlight {
+  background-color: #3d3c3c;
+  border-radius: 3px;
+  line-height: 1.4;
+  margin: 0 0 1rem;
+  padding: 1rem;
+    }
+}
 .pull-left {
     float: left
 }
