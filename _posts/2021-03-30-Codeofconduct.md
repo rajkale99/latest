@@ -3,6 +3,7 @@ layout: post
 title: Code Of Conduct
 subtitle: Important rules
 tags: [Maintaining OFFICIALLY]
+comments: true
 ---
 
 <p align="center">
