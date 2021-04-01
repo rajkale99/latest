@@ -213,10 +213,6 @@ code {
   color: $grey-1;
   margin: .8rem 0;
   padding: .5rem 1rem;
-
-  p:last-child {
-    margin-bottom: 0;
-  }
 }
 
 .content .profile-picture {
