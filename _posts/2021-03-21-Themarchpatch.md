@@ -19,7 +19,9 @@ Here we are coming back again to bother you with a new release of **Legion v3.7*
 So, let’s see what all we got fixed & What’s new -:
 
 > Updated New wallpapers in the Lpapers app
+
 > Update to march security patch
+
 > New updater app UI 
 > Imply force redfin(Pixel 5) fingerprint
 > Add qs tile styles customization
