@@ -17,26 +17,26 @@ Hope everyone is enjoying their weekend.
 Here we are coming back again to bother you with a new release of **Legion v3.7**
 
 So, let’s see what all we got fixed & What’s new -:
-```
-* <span class="color-red"> Updated New wallpapers in the Lpapers app </span>
-* <span class="color-red"> Update to march security patch </span>
-* <span class="color-red"> New updater app UI </span>
-* <span class="color-red"> Imply force redfin(Pixel 5) fingerprint </span>
-* <span class="color-red"> Add qs tile styles customization </span>
-* <span class="color-red"> Add qs header customization </span>
-* <span class="color-red"> Introduce Extreme battery saver </span>
-* <span class="color-red"> Enable IORap by default </span>
-* <span class="color-red"> Downscale high-res-tasks </span>
-* <span class="color-red"> Update prebuilt apks </span>
-* <span class="color-red"> Updated gapps to Latest March </span>
-* <span class="color-red"> Fixed a case where bubble chats were crashing </span>
-* <span class="color-red"> Fixed a case where Data usage wasnt visible </span>
-* <span class="color-red"> Moved Data usage to qs </span>
-* <span class="color-red"> Add proximity check on wake </span>
-* <span class="color-red"> Enable some lock screen shortcuts by default </span>
-* <span class="color-red"> Some Dependency updates </span>
-* <span class="color-red"> Minor fixes and updates </span>
-```
+``
+* Updated New wallpapers in the Lpapers app
+* Update to march security patch
+* New updater app UI 
+* Imply force redfin(Pixel 5) fingerprint
+* <span class="color-red"> Add qs tile styles customization
+* Add qs header customization
+* Introduce Extreme battery saver
+* Enable IORap by default
+* Downscale high-res-tasks
+* Update prebuilt apks
+* Updated gapps to Latest March
+* Fixed a case where bubble chats were crashing
+* Fixed a case where Data usage wasnt visible
+* Moved Data usage to qs
+* Add proximity check on wake
+* Enable some lock screen shortcuts by default
+* Some Dependency updates
+* Minor fixes and updates
+``
 **Many Other Device Side Changes. Kindly Check About Phone changelog sections for more details.**
 
 
