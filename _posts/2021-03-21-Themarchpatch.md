@@ -23,20 +23,35 @@ So, let’s see what all we got fixed & What’s new -:
 > Update to march security patch
 
 > New updater app UI 
+
 > Imply force redfin(Pixel 5) fingerprint
+
 > Add qs tile styles customization
+
 > Add qs header customization
+
 > Introduce Extreme battery saver
+
 > Enable IORap by default
+
 > Downscale high-res-tasks
+
 > Update prebuilt apks
+
 > Updated gapps to Latest March
+
 > Fixed a case where bubble chats were crashing
+
 > Fixed a case where Data usage wasnt visible
+
 > Moved Data usage to qs
+
 > Add proximity check on wake
+
 > Enable some lock screen shortcuts by default
+
 > Some Dependency updates
+
 > Minor fixes and updates
 
 **Many Other Device Side Changes. Kindly Check About Phone changelog sections for more details.**
