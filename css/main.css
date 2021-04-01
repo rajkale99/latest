@@ -209,10 +209,11 @@ code {
 }
 
 .content blockquote {
-  border-left: .25rem solid $grey-2;
-  color: $grey-1;
+  border-left: .25rem solid #fff
+  color: #fff;
   margin: .8rem 0;
   padding: .5rem 1rem;
+    
   p:last-child {
     margin-bottom: 0;
   }
@@ -264,28 +265,8 @@ p .content .profile-picture {
     background-color: #ffaaaa
 }
 
-.content .highlight-orange {
+.content .highlight {
     background-color: #3d3c3d;
-    border-radius: 3px;
-    line-height: 1.4;
-    margin: 0 0 1rem;
-    padding: 1rem;
-}
-
-.content .highlight-green {
-    background-color: #3d3c3d;
-    border-radius: 3px;
-    line-height: 1.4;
-    margin: 0 0 1rem;
-    padding: 1rem;
-}
-
-.content .highlight-blue {
-    background-color: #3d3c3d;
-    border-radius: 3px;
-    line-height: 1.4;
-    margin: 0 0 1rem;
-    padding: 1rem;
 }
 
 table {
