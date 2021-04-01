@@ -3,6 +3,7 @@ layout: post
 title: Maintaining of LegionOS
 subtitle: BUILD OFFICIAL
 tags: [Maintaining OFFICIALLY]
+comments: true
 ---
 
 <p align="center">
