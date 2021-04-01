@@ -18,7 +18,7 @@ Here we are coming back again to bother you with a new release of **Legion v3.7*
 
 So, let’s see what all we got fixed & What’s new -:
 
-```ruby
+{% highlight markdown %}
 * Updated New wallpapers in the Lpapers app
 * Update to march security patch
 * New updater app UI 
@@ -37,7 +37,7 @@ So, let’s see what all we got fixed & What’s new -:
 * Enable some lock screen shortcuts by default
 * Some Dependency updates
 * Minor fixes and updates
-```
+{% endhighlight %}
 
 **Many Other Device Side Changes. Kindly Check About Phone changelog sections for more details.**
 
