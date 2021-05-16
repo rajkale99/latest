@@ -51,7 +51,6 @@
     </PreferenceCategory>
 
     <PreferenceCategory
-
         android:key="display"
         android:title="@string/display_category">
 
